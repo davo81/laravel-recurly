@@ -6,6 +6,11 @@
     "license":"MIT",
     "authors":[
         {
+            "name":"Joris van Willigen",
+            "email":"me@jorisvanw.me",
+            "homepage":"https://jorisvanw.me"
+        },
+        {
             "name":"Chris Thompson",
             "email":"christhompsontldr@gmail.com",
             "homepage":"https://christhompsontldr.com"
@@ -13,6 +18,7 @@
         {
             "name":"Davit Vardanyan",
             "email":"davo81@gmail.com",
+            "homepage":"https://davit.me"
         }
     ],
     "require": {
