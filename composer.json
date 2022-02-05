@@ -1,6 +1,6 @@
 {
     "name": "davo81/laravel-recurly",
-    "homepage": "https://github.com/ChrisThompsonTLDR/laravel-recurly",
+    "homepage": "https://github.com/davo81/laravel-recurly",
     "description": "A simple Laravel 5 service provider for including the Recurly PHP client.",
     "keywords": ["laravel","laravel 5","recurly","recurring","billing","api"],
     "license":"MIT",
