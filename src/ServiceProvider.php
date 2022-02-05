@@ -1,6 +1,6 @@
 <?php
 
-namespace Christhompsontldr\LaravelRecurly;
+namespace Davo81\LaravelRecurly;
 
 use \Recurly_Client;
 use \Recurly_js;

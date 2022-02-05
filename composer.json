@@ -17,11 +17,18 @@
     ],
     "require": {
         "php": ">=7.4",
-        "recurly/recurly-client": "^2.10"
+        "recurly/recurly-client": "^2.12"
     },
     "autoload": {
         "psr-4": {
-            "Christhompsontldr\\LaravelRecurly\\": "src/"
+            "Davo81\\LaravelRecurly\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Davo81\\LaravelRecurly\\ServiceProvider"
+            ]
         }
     }
 }
